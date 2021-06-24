@@ -11,3 +11,8 @@ Allows a user to generate an infinite number of "PacMen" that bounce around the 
 4. Use the "Start Game" button to activate PacMan movement. "Start Game" can be pressed over and over again to increase velocity.
 5. Refresh the window to start over. 
 
+## Roadmap of Future Improvements 
+
+Future updates will include: 
+1. Graphical animations to simulate open / closing mouth movements 
+2. The ability for PacMen to "eat eachother" upon collision. 
